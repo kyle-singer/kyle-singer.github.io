@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kyle Singer"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Washington University in St. Louis"
+  bio              : "Postdoctoral Associate at MIT CSAIL"
   location         : "St. Louis, MO"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GeMzK0UAAAAJ"
-  email            : "kdsinger AT wustl DOT edu"
+  email            : "kdsinger AT mit DOT edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
